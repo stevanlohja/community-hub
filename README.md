@@ -10,6 +10,17 @@ Key Features:
 
 This repo is part of the `midnightntwrk` organization.
 
+## Create an Issue 
+
+<div align="center">
+
+[![Report a Bug](https://img.shields.io/badge/Report_a_Bug-d73a4a?style=for-the-badge&logo=openbugbounty&logoColor=white)](https://github.com/midnightntwrk/Community-Hub/issues/new?template=bug.yml)
+[![Request a Feature](https://img.shields.io/badge/Request_a_Feature-58a6ff?style=for-the-badge&logo=nebula&logoColor=white)](https://github.com/midnightntwrk/Community-Hub/issues/new?template=feature-request-suggestion.yml)
+[![Suggest Content](https://img.shields.io/badge/Suggest_Content-3fb950?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/midnightntwrk/Community-Hub/issues/new?template=content-proposal.yml)
+[![Propose a dApp](https://img.shields.io/badge/Propose_a_dApp-9e7ce3?style=for-the-badge&logo=createreactapp&logoColor=white)](https://github.com/midnightntwrk/Community-Hub/issues/new?template=dapp-proposal.yml)
+
+</div>
+
 ## Issue Templates
 
 To standardize submissions and make it easier for contributors, we provide the following issue templates:Content Proposal: For suggesting new content like articles, tutorials, or resources. Use this to propose ideas that educate or engage the community.
